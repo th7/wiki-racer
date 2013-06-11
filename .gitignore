@@ -1,0 +1,4 @@
+$ cat .gitignore
+
+*.db
+*.html
